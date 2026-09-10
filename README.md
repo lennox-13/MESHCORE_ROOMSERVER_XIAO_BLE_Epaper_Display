@@ -38,11 +38,15 @@ The device is designed to operate as a room server and provide status informatio
 
 ### Room 2
 
-![Room 2](images/Room_2.jpg)
+![Room 2](images/Room_22.jpg)
 
 ### Room 3
 
 ![Room 3](images/Room_3.jpg)
+
+### Room 4
+
+![Room 4](images/Room_4.jpg)
 
 ## Firmware
 
